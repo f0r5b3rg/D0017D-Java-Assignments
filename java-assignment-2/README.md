@@ -1,1 +1,0 @@
-# java-mandatory-assignment-2
